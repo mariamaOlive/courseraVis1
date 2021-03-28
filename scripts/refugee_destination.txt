@@ -1,0 +1,270 @@
+﻿Country Name	Country Code	Series Name	Series Code	2010 [YR2010]	2011 [YR2011]	2012 [YR2012]	2013 [YR2013]	2014 [YR2014]	2015 [YR2015]	2016 [YR2016]	2017 [YR2017]	2018 [YR2018]	2019 [YR2019]	2020 [YR2020]
+Afghanistan	AFG	Refugee population by country or territory of asylum	SM.POP.REFG	6434	3011	16184	16861	300421	257553	59770	75927	72228	72227	..
+Albania	ALB	Refugee population by country or territory of asylum	SM.POP.REFG	75	79	84	96	111	109	141	124	132	120	..
+Algeria	DZA	Refugee population by country or territory of asylum	SM.POP.REFG	94141	94145	94130	94142	94119	94176	94220	94248	94341	98599	..
+American Samoa	ASM	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Andorra	AND	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Angola	AGO	Refugee population by country or territory of asylum	SM.POP.REFG	15142	16212	23401	23771	15468	15547	15547	41119	39856	25793	..
+Antigua and Barbuda	ATG	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	15	5	..	..	..	..
+Argentina	ARG	Refugee population by country or territory of asylum	SM.POP.REFG	3257	3341	3468	3340	3473	3187	3267	3332	3442	3857	..
+Armenia	ARM	Refugee population by country or territory of asylum	SM.POP.REFG	3292	2913	2849	13727	17635	19314	17883	17968	17966	17980	..
+Aruba	ABW	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Australia	AUS	Refugee population by country or territory of asylum	SM.POP.REFG	21790	23423	30061	34485	35565	36917	42187	48480	56934	76768	..
+Austria	AUT	Refugee population by country or territory of asylum	SM.POP.REFG	42613	47055	51707	55575	60724	72198	93242	115252	128779	135951	..
+Azerbaijan	AZE	Refugee population by country or territory of asylum	SM.POP.REFG	1894	1727	1467	1377	1298	1279	1193	1120	1130	1109	..
+"Bahamas, The"	BHS	Refugee population by country or territory of asylum	SM.POP.REFG	27	27	36	14	12	7	9	8	14	10	..
+Bahrain	BHR	Refugee population by country or territory of asylum	SM.POP.REFG	165	199	289	294	310	246	270	255	262	251	..
+Bangladesh	BGD	Refugee population by country or territory of asylum	SM.POP.REFG	229256	229669	230696	231142	232468	231954	276203	932209	906640	854779	..
+Barbados	BRB	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Belarus	BLR	Refugee population by country or territory of asylum	SM.POP.REFG	587	594	572	599	919	1805	1647	2155	2225	2725	..
+Belgium	BEL	Refugee population by country or territory of asylum	SM.POP.REFG	17891	22396	22023	25617	29170	35302	42158	42158	42158	61662	..
+Belize	BLZ	Refugee population by country or territory of asylum	SM.POP.REFG	134	78	27	21	10	34	..	..	29	29	..
+Benin	BEN	Refugee population by country or territory of asylum	SM.POP.REFG	7136	7213	4960	190	414	526	804	1056	1167	1238	..
+Bermuda	BMU	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Bhutan	BTN	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Bolivia	BOL	Refugee population by country or territory of asylum	SM.POP.REFG	680	701	717	734	751	762	776	802	802	863	..
+Bosnia and Herzegovina	BIH	Refugee population by country or territory of asylum	SM.POP.REFG	7014	6932	6904	6924	6883	6789	5266	5224	5227	5241	..
+Botswana	BWA	Refugee population by country or territory of asylum	SM.POP.REFG	2983	3312	2784	2771	2642	2127	2090	2116	2044	1113	..
+Brazil	BRA	Refugee population by country or territory of asylum	SM.POP.REFG	4346	4466	4681	5185	7478	8703	9674	10260	11304	32844	..
+British Virgin Islands	VGB	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Brunei Darussalam	BRN	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Bulgaria	BGR	Refugee population by country or territory of asylum	SM.POP.REFG	5519	5676	2273	4305	11026	16543	17794	19166	19906	20438	..
+Burkina Faso	BFA	Refugee population by country or territory of asylum	SM.POP.REFG	530	549	39304	29233	31894	34017	32551	24152	25120	25869	..
+Burundi	BDI	Refugee population by country or territory of asylum	SM.POP.REFG	29364	35658	41811	45487	52931	53356	57462	62353	71501	78465	..
+Cabo Verde	CPV	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Cambodia	KHM	Refugee population by country or territory of asylum	SM.POP.REFG	124	61	75	64	59	74	61	61	..	..	..
+Cameroon	CMR	Refugee population by country or territory of asylum	SM.POP.REFG	104269	100368	98961	114744	264122	342970	375413	337382	380327	406259	..
+Canada	CAN	Refugee population by country or territory of asylum	SM.POP.REFG	165544	164879	163751	160347	149164	135890	97322	104768	114101	101757	..
+Cayman Islands	CYM	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	5	5	10	18	29	34	34	..
+Central African Republic	CAF	Refugee population by country or territory of asylum	SM.POP.REFG	21568	16737	14015	14323	7692	7332	12117	10033	6652	7170	..
+Chad	TCD	Refugee population by country or territory of asylum	SM.POP.REFG	347931	366491	373690	434476	452897	369538	391235	411475	451203	442670	..
+Channel Islands	CHI	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Chile	CHL	Refugee population by country or territory of asylum	SM.POP.REFG	1613	1669	1692	1738	1764	1840	1730	1861	2026	2046	..
+China	CHN	Refugee population by country or territory of asylum	SM.POP.REFG	300984	301016	301037	301045	301052	301044	317254	321714	321758	303379	..
+Colombia	COL	Refugee population by country or territory of asylum	SM.POP.REFG	198	208	204	207	198	212	241	260	294	634	..
+Comoros	COM	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+"Congo, Dem. Rep."	COD	Refugee population by country or territory of asylum	SM.POP.REFG	166333	152748	65106	113357	119752	383095	451957	537089	529065	523733	..
+"Congo, Rep."	COG	Refugee population by country or territory of asylum	SM.POP.REFG	133099	141224	98446	51033	54842	44952	46454	48509	37491	25668	..
+Costa Rica	CRI	Refugee population by country or territory of asylum	SM.POP.REFG	19486	20044	20435	20554	20726	3603	4162	4479	4531	6204	..
+Cote d'Ivoire	CIV	Refugee population by country or territory of asylum	SM.POP.REFG	26213	24212	3972	2970	1918	1972	1397	1559	1808	2020	..
+Croatia	HRV	Refugee population by country or territory of asylum	SM.POP.REFG	933	818	722	679	724	518	300	508	787	916	..
+Cuba	CUB	Refugee population by country or territory of asylum	SM.POP.REFG	406	381	366	377	276	300	312	343	287	233	..
+Curacao	CUW	Refugee population by country or territory of asylum	SM.POP.REFG	7	6	13	13	34	46	53	74	99	42	..
+Cyprus	CYP	Refugee population by country or territory of asylum	SM.POP.REFG	3397	3498	3627	3879	5120	7062	8478	9790	11002	12311	..
+Czech Republic	CZE	Refugee population by country or territory of asylum	SM.POP.REFG	2424	2424	2780	2966	3129	3640	3640	3640	2186	2054	..
+Denmark	DNK	Refugee population by country or territory of asylum	SM.POP.REFG	17907	13386	11797	13153	17767	27312	33501	35668	36623	37533	..
+Djibouti	DJI	Refugee population by country or territory of asylum	SM.POP.REFG	15102	20336	19136	20010	20525	19369	17683	17553	18293	19639	..
+Dominica	DMA	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Dominican Republic	DOM	Refugee population by country or territory of asylum	SM.POP.REFG	600	595	757	721	608	615	593	594	164	164	..
+Ecuador	ECU	Refugee population by country or territory of asylum	SM.POP.REFG	121222	123407	123793	123177	122129	121511	102848	92405	101550	104560	..
+"Egypt, Arab Rep."	EGY	Refugee population by country or territory of asylum	SM.POP.REFG	95044	95078	109923	230070	236085	212492	213515	232647	246746	258391	..
+El Salvador	SLV	Refugee population by country or territory of asylum	SM.POP.REFG	39	39	43	42	33	46	41	40	44	48	..
+Equatorial Guinea	GNQ	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Eritrea	ERI	Refugee population by country or territory of asylum	SM.POP.REFG	4809	4719	3600	3166	2898	2549	2342	2392	2252	199	..
+Estonia	EST	Refugee population by country or territory of asylum	SM.POP.REFG	31	34	48	52	82	158	312	405	319	331	..
+Eswatini	SWZ	Refugee population by country or territory of asylum	SM.POP.REFG	757	757	499	501	511	694	725	790	874	940	..
+Ethiopia	ETH	Refugee population by country or territory of asylum	SM.POP.REFG	154288	288839	376388	433933	659520	736081	791631	889412	903226	733123	..
+Faroe Islands	FRO	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Fiji	FJI	Refugee population by country or territory of asylum	SM.POP.REFG	..	5	..	..	7	7	7	7	..	12	..
+Finland	FIN	Refugee population by country or territory of asylum	SM.POP.REFG	8721	9170	9910	11242	11783	12692	18402	20793	22287	23458	..
+France	FRA	Refugee population by country or territory of asylum	SM.POP.REFG	200687	210207	217865	232487	252248	273117	304527	337158	368345	407915	..
+French Polynesia	PYF	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Gabon	GAB	Refugee population by country or territory of asylum	SM.POP.REFG	9014	1769	1661	1592	1007	934	926	845	686	454	..
+"Gambia, The"	GMB	Refugee population by country or territory of asylum	SM.POP.REFG	8373	9523	9846	9557	11606	7851	7936	8039	4027	4302	..
+Georgia	GEO	Refugee population by country or territory of asylum	SM.POP.REFG	638	461	469	847	858	1973	2122	2089	1987	1355	..
+Germany	DEU	Refugee population by country or territory of asylum	SM.POP.REFG	594250	571672	589735	187545	216956	316098	669468	970357	1063835	1146682	..
+Ghana	GHA	Refugee population by country or territory of asylum	SM.POP.REFG	13828	13588	16012	18681	18448	17404	11866	12153	11896	11946	..
+Gibraltar	GIB	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Greece	GRC	Refugee population by country or territory of asylum	SM.POP.REFG	1443	1566	2090	3468	10292	24831	46411	38988	61446	80454	..
+Greenland	GRL	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Grenada	GRD	Refugee population by country or territory of asylum	SM.POP.REFG	..	5	..	..	..	..	..	..	..	..	..
+Guam	GUM	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Guatemala	GTM	Refugee population by country or territory of asylum	SM.POP.REFG	137	148	157	154	160	222	295	360	380	408	..
+Guinea	GIN	Refugee population by country or territory of asylum	SM.POP.REFG	14110	16606	10369	8554	8763	8835	5067	5156	4294	4964	..
+Guinea-Bissau	GNB	Refugee population by country or territory of asylum	SM.POP.REFG	7675	7796	7780	8535	8685	8685	9264	11207	4853	1846	..
+Guyana	GUY	Refugee population by country or territory of asylum	SM.POP.REFG	7	7	7	12	12	12	12	17	25	14	..
+Haiti	HTI	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	5	5	5	..	..
+Honduras	HND	Refugee population by country or territory of asylum	SM.POP.REFG	11	16	16	16	28	28	16	27	28	75	..
+"Hong Kong SAR, China"	HKG	Refugee population by country or territory of asylum	SM.POP.REFG	149	146	105	113	160	109	91	85	128	128	..
+Hungary	HUN	Refugee population by country or territory of asylum	SM.POP.REFG	5400	5085	4034	2422	2854	4383	4736	5671	6019	5750	..
+Iceland	ISL	Refugee population by country or territory of asylum	SM.POP.REFG	72	55	55	72	93	170	245	361	549	894	..
+India	IND	Refugee population by country or territory of asylum	SM.POP.REFG	184814	185118	185644	188391	199931	201379	197848	197142	195887	195103	..
+Indonesia	IDN	Refugee population by country or territory of asylum	SM.POP.REFG	808	1004	1811	3195	4267	5954	7824	9782	10786	10287	..
+"Iran, Islamic Rep."	IRN	Refugee population by country or territory of asylum	SM.POP.REFG	1073363	886465	868239	857352	982025	979435	979435	979435	979435	979435	..
+Iraq	IRQ	Refugee population by country or territory of asylum	SM.POP.REFG	34647	35184	98818	246294	271137	277702	261863	277668	283018	273986	..
+Ireland	IRL	Refugee population by country or territory of asylum	SM.POP.REFG	9099	8234	6309	5991	5832	6108	5720	6394	6012	7795	..
+Isle of Man	IMN	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Israel	ISR	Refugee population by country or territory of asylum	SM.POP.REFG	25462	41221	48490	48183	39698	32929	30529	25657	18554	16107	..
+Italy	ITA	Refugee population by country or territory of asylum	SM.POP.REFG	56402	58066	64782	76248	93712	118036	147362	167330	189227	207602	..
+Jamaica	JAM	Refugee population by country or territory of asylum	SM.POP.REFG	19	19	19	18	23	13	13	13	13	..	..
+Japan	JPN	Refugee population by country or territory of asylum	SM.POP.REFG	2583	2645	2579	2586	2562	2479	2512	2189	1893	1463	..
+Jordan	JOR	Refugee population by country or territory of asylum	SM.POP.REFG	2393339	2430580	2337341	2712877	2771492	2808343	2860679	2897751	2957877	2966079	..
+Kazakhstan	KAZ	Refugee population by country or territory of asylum	SM.POP.REFG	4403	613	561	580	628	701	647	602	568	518	..
+Kenya	KEN	Refugee population by country or territory of asylum	SM.POP.REFG	402891	566482	564921	534935	551351	553907	451097	431895	421243	438899	..
+Kiribati	KIR	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+"Korea, Dem. People’s Rep."	PRK	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+"Korea, Rep."	KOR	Refugee population by country or territory of asylum	SM.POP.REFG	352	389	488	548	1164	1455	1798	2238	2890	3196	..
+Kosovo	XKX	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Kuwait	KWT	Refugee population by country or territory of asylum	SM.POP.REFG	185	336	676	633	611	736	935	613	671	686	..
+Kyrgyz Republic	KGZ	Refugee population by country or territory of asylum	SM.POP.REFG	2462	6097	4940	468	484	349	334	334	329	347	..
+Lao PDR	LAO	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Latvia	LVA	Refugee population by country or territory of asylum	SM.POP.REFG	60	88	113	149	168	193	340	653	664	665	..
+Lebanon	LBN	Refugee population by country or territory of asylum	SM.POP.REFG	438131	445139	575465	1303867	1606698	1529213	1476623	1468431	1424728	1392174	..
+Lesotho	LSO	Refugee population by country or territory of asylum	SM.POP.REFG	..	38	33	29	43	31	46	55	56	143	..
+Liberia	LBR	Refugee population by country or territory of asylum	SM.POP.REFG	24735	128283	65899	53244	38587	36495	18978	11109	9103	8225	..
+Libya	LBY	Refugee population by country or territory of asylum	SM.POP.REFG	7922	10130	7065	25561	27964	9305	9311	9352	8792	4730	..
+Liechtenstein	LIE	Refugee population by country or territory of asylum	SM.POP.REFG	86	88	103	96	102	146	161	164	166	125	..
+Lithuania	LTU	Refugee population by country or territory of asylum	SM.POP.REFG	808	824	871	918	1007	1094	1284	1577	1731	1822	..
+Luxembourg	LUX	Refugee population by country or territory of asylum	SM.POP.REFG	3254	2855	2910	901	1091	1306	2020	2020	2020	2548	..
+"Macao SAR, China"	MAC	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Madagascar	MDG	Refugee population by country or territory of asylum	SM.POP.REFG	..	5	5	11	11	6	22	39	39	113	..
+Malawi	MWI	Refugee population by country or territory of asylum	SM.POP.REFG	5738	6306	6546	5794	5871	9018	9386	8977	13783	14087	..
+Malaysia	MYS	Refugee population by country or territory of asylum	SM.POP.REFG	81518	86675	90173	97504	99373	94161	92259	103837	121305	129107	..
+Maldives	MDV	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Mali	MLI	Refugee population by country or territory of asylum	SM.POP.REFG	13552	15618	13930	14317	15193	15913	17510	17036	26538	26672	..
+Malta	MLT	Refugee population by country or territory of asylum	SM.POP.REFG	6143	6948	8242	9900	6095	7068	7941	7994	8579	8908	..
+Marshall Islands	MHL	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Mauritania	MRT	Refugee population by country or territory of asylum	SM.POP.REFG	26709	26535	80500	92767	75629	77390	74147	77425	83184	84901	..
+Mauritius	MUS	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	5	16	20	..
+Mexico	MEX	Refugee population by country or territory of asylum	SM.POP.REFG	1364	1647	1501	1814	1820	2904	6178	8993	16530	28517	..
+"Micronesia, Fed. Sts."	FSM	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	5	5	..	..	..	..
+Moldova	MDA	Refugee population by country or territory of asylum	SM.POP.REFG	132	131	176	237	323	434	419	391	409	417	..
+Monaco	MCO	Refugee population by country or territory of asylum	SM.POP.REFG	..	37	37	34	33	32	27	25	25	22	..
+Mongolia	MNG	Refugee population by country or territory of asylum	SM.POP.REFG	12	..	5	8	5	11	10	5	5	..	..
+Montenegro	MNE	Refugee population by country or territory of asylum	SM.POP.REFG	16363	12871	11193	8471	6455	1762	970	794	727	653	..
+Morocco	MAR	Refugee population by country or territory of asylum	SM.POP.REFG	798	736	745	1458	1205	3899	4762	4703	5932	6642	..
+Mozambique	MOZ	Refugee population by country or territory of asylum	SM.POP.REFG	4072	4074	4395	4443	4534	5624	4663	4876	4910	4713	..
+Myanmar	MMR	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Namibia	NAM	Refugee population by country or territory of asylum	SM.POP.REFG	7249	6050	1808	2330	1765	1730	1747	2182	2394	3182	..
+Nauru	NRU	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	386	508	508	964	964	755	..
+Nepal	NPL	Refugee population by country or territory of asylum	SM.POP.REFG	89804	72651	56263	46303	38490	32669	25249	21467	20804	19570	..
+Netherlands	NLD	Refugee population by country or territory of asylum	SM.POP.REFG	74948	74587	71893	74700	82483	88518	101727	103843	101824	94417	..
+New Caledonia	NCL	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+New Zealand	NZL	Refugee population by country or territory of asylum	SM.POP.REFG	2298	1916	1504	1388	1342	1313	1408	1465	1545	2724	..
+Nicaragua	NIC	Refugee population by country or territory of asylum	SM.POP.REFG	59	80	124	184	273	325	325	322	321	322	..
+Niger	NER	Refugee population by country or territory of asylum	SM.POP.REFG	315	301	50509	57657	77826	124717	166089	165729	175413	179997	..
+Nigeria	NGA	Refugee population by country or territory of asylum	SM.POP.REFG	8744	8803	3151	1688	1237	1387	1357	1910	34727	54157	..
+North Macedonia	MKD	Refugee population by country or territory of asylum	SM.POP.REFG	1397	1129	1076	980	880	697	634	414	413	354	..
+Northern Mariana Islands	MNP	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Norway	NOR	Refugee population by country or territory of asylum	SM.POP.REFG	40245	40671	42805	46088	47025	50377	59512	59230	57004	53882	..
+Oman	OMN	Refugee population by country or territory of asylum	SM.POP.REFG	78	83	138	138	150	244	316	308	310	308	..
+Pakistan	PAK	Refugee population by country or territory of asylum	SM.POP.REFG	1900619	1702698	1638452	1616505	1505521	1561157	1352551	1393132	1404008	1419596	..
+Palau	PLW	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Panama	PAN	Refugee population by country or territory of asylum	SM.POP.REFG	17066	17249	17414	17650	17256	17304	17332	2417	2501	2536	..
+Papua New Guinea	PNG	Refugee population by country or territory of asylum	SM.POP.REFG	9699	9378	9378	9373	9503	9503	9529	10018	10022	9698	..
+Paraguay	PRY	Refugee population by country or territory of asylum	SM.POP.REFG	103	120	129	132	149	167	199	200	260	1014	..
+Peru	PER	Refugee population by country or territory of asylum	SM.POP.REFG	1129	1130	1100	1128	1275	1454	1615	1788	2506	2850	..
+Philippines	PHL	Refugee population by country or territory of asylum	SM.POP.REFG	238	118	141	178	213	254	392	512	631	680	..
+Poland	POL	Refugee population by country or territory of asylum	SM.POP.REFG	15537	15834	15897	16428	15730	14057	11738	12225	12495	12658	..
+Portugal	PRT	Refugee population by country or territory of asylum	SM.POP.REFG	368	399	473	596	704	851	1189	1619	2130	2375	..
+Puerto Rico	PRI	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Qatar	QAT	Refugee population by country or territory of asylum	SM.POP.REFG	51	80	80	130	132	117	176	188	189	202	..
+Romania	ROU	Refugee population by country or territory of asylum	SM.POP.REFG	1019	1003	1263	1747	2171	2581	2880	3911	4134	3860	..
+Russian Federation	RUS	Refugee population by country or territory of asylum	SM.POP.REFG	4924	3913	3164	3450	235732	314498	228981	126021	77382	42413	..
+Rwanda	RWA	Refugee population by country or territory of asylum	SM.POP.REFG	55398	55325	58217	73352	73822	144739	156065	170991	145359	145054	..
+Samoa	WSM	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	5	5	5	..	..
+San Marino	SMR	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Sao Tome and Principe	STP	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Saudi Arabia	SAU	Refugee population by country or territory of asylum	SM.POP.REFG	578	595	575	557	559	122	136	153	263	315	..
+Senegal	SEN	Refugee population by country or territory of asylum	SM.POP.REFG	20670	20640	14229	14241	14267	14383	14575	14646	14359	14467	..
+Serbia	SRB	Refugee population by country or territory of asylum	SM.POP.REFG	73604	70702	66367	57079	43749	35326	36518	32206	30946	26427	..
+Seychelles	SYC	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Sierra Leone	SLE	Refugee population by country or territory of asylum	SM.POP.REFG	8362	8091	4203	2816	1371	760	683	678	591	441	..
+Singapore	SGP	Refugee population by country or territory of asylum	SM.POP.REFG	5	..	..	..	5	..	..	..	..	..	..
+Sint Maarten (Dutch part)	SXM	Refugee population by country or territory of asylum	SM.POP.REFG	..	5	5	5	5	5	5	5	5	5	..
+Slovak Republic	SVK	Refugee population by country or territory of asylum	SM.POP.REFG	451	535	650	691	791	816	980	912	938	965	..
+Slovenia	SVN	Refugee population by country or territory of asylum	SM.POP.REFG	315	134	169	202	251	284	454	611	746	741	..
+Solomon Islands	SLB	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	5	5	..	..	..	..	..
+Somalia	SOM	Refugee population by country or territory of asylum	SM.POP.REFG	1934	2100	2308	2426	2732	8081	11579	14565	16738	17882	..
+South Africa	ZAF	Refugee population by country or territory of asylum	SM.POP.REFG	57899	57899	65225	65976	112182	121635	91018	88694	89285	89285	..
+South Sudan	SSD	Refugee population by country or territory of asylum	SM.POP.REFG	..	105023	202581	229587	248152	263012	262558	283405	291838	298309	..
+Spain	ESP	Refugee population by country or territory of asylum	SM.POP.REFG	3814	4220	4502	4641	5797	6447	12983	17541	20437	57751	..
+Sri Lanka	LKA	Refugee population by country or territory of asylum	SM.POP.REFG	224	187	109	143	508	781	602	820	796	1041	..
+St. Kitts and Nevis	KNA	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	5	5	..
+St. Lucia	LCA	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	5	..	..	..	..	..	..	..
+St. Martin (French part)	MAF	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+St. Vincent and the Grenadines	VCT	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Sudan	SDN	Refugee population by country or territory of asylum	SM.POP.REFG	178305	139407	152188	159848	277818	309632	421459	906590	1078280	1055489	..
+Suriname	SUR	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	34	41	44	..
+Sweden	SWE	Refugee population by country or territory of asylum	SM.POP.REFG	82620	86603	92869	114172	142197	169516	230158	240954	248210	253787	..
+Switzerland	CHE	Refugee population by country or territory of asylum	SM.POP.REFG	48813	50401	50733	52448	62596	73326	82668	93030	104011	110162	..
+Syrian Arab Republic	SYR	Refugee population by country or territory of asylum	SM.POP.REFG	1482272	1242381	975685	666541	677751	555766	562821	571298	578956	578525	..
+Tajikistan	TJK	Refugee population by country or territory of asylum	SM.POP.REFG	3131	3322	2248	2050	2027	1963	2724	2521	2654	3788	..
+Tanzania	TZA	Refugee population by country or territory of asylum	SM.POP.REFG	109286	131243	101021	102099	88492	211845	281498	308528	278322	242171	..
+Thailand	THA	Refugee population by country or territory of asylum	SM.POP.REFG	96666	89245	84475	136489	130227	108252	106431	104605	102234	97556	..
+Timor-Leste	TLS	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Togo	TGO	Refugee population by country or territory of asylum	SM.POP.REFG	14051	19271	23539	20613	21773	21949	12486	12425	12335	11964	..
+Tonga	TON	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Trinidad and Tobago	TTO	Refugee population by country or territory of asylum	SM.POP.REFG	20	15	13	10	76	105	104	282	784	2308	..
+Tunisia	TUN	Refugee population by country or territory of asylum	SM.POP.REFG	86	4085	1433	727	895	659	646	726	1061	1732	..
+Turkey	TUR	Refugee population by country or territory of asylum	SM.POP.REFG	10025	14457	267063	609931	1587365	2541348	2869419	3480350	3681688	3579531	..
+Turkmenistan	TKM	Refugee population by country or territory of asylum	SM.POP.REFG	64	59	46	45	34	25	26	22	21	21	..
+Turks and Caicos Islands	TCA	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	5	5	5	5	5	5	5	..
+Tuvalu	TUV	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+Uganda	UGA	Refugee population by country or territory of asylum	SM.POP.REFG	135799	139442	197872	220548	385503	477187	940825	1350495	1165646	1359458	..
+Ukraine	UKR	Refugee population by country or territory of asylum	SM.POP.REFG	3016	3168	2790	2956	3206	3261	3292	3241	2606	2166	..
+United Arab Emirates	ARE	Refugee population by country or territory of asylum	SM.POP.REFG	538	675	628	602	419	663	888	884	1167	1242	..
+United Kingdom	GBR	Refugee population by country or territory of asylum	SM.POP.REFG	238133	193494	149790	126036	117226	123051	118973	121821	126708	133083	..
+United States	USA	Refugee population by country or territory of asylum	SM.POP.REFG	264510	264752	262006	263653	267214	273198	272963	287135	313242	341715	..
+Uruguay	URY	Refugee population by country or territory of asylum	SM.POP.REFG	181	165	170	190	254	292	299	334	379	498	..
+Uzbekistan	UZB	Refugee population by country or territory of asylum	SM.POP.REFG	309	216	178	143	123	106	26	20	13	13	..
+Vanuatu	VUT	Refugee population by country or territory of asylum	SM.POP.REFG	5	..	..	..	..	..	..	..	..	..	..
+"Venezuela, RB"	VEN	Refugee population by country or territory of asylum	SM.POP.REFG	201544	202013	203635	204331	173591	173745	172047	122804	67283	67749	..
+Vietnam	VNM	Refugee population by country or territory of asylum	SM.POP.REFG	1928	990	..	..	..	..	..	..	..	..	..
+Virgin Islands (U.S.)	VIR	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+West Bank and Gaza	PSE	Refugee population by country or territory of asylum	SM.POP.REFG	1841769	1895043	1944544	1994493	2051096	2104001	2158274	2214783	2267747	2319073	..
+"Yemen, Rep."	YEM	Refugee population by country or territory of asylum	SM.POP.REFG	190088	214736	237176	241281	257637	267163	269778	270913	264359	268503	..
+Zambia	ZMB	Refugee population by country or territory of asylum	SM.POP.REFG	47853	45627	25647	23584	25566	26434	29338	41266	49877	57518	..
+Zimbabwe	ZWE	Refugee population by country or territory of asylum	SM.POP.REFG	4432	4559	4354	6387	6076	6943	7423	7566	7795	8956	..
+Arab World	ARB	Refugee population by country or territory of asylum	SM.POP.REFG	6801882	6657583	6638843	7794716	8374964	8279319	8440081	9061054	9332914	9349349	..
+Caribbean small states	CSS	Refugee population by country or territory of asylum	SM.POP.REFG	207	151	102	80	133	186	143	354	911	2410	..
+Central Europe and the Baltics	CEB	Refugee population by country or territory of asylum	SM.POP.REFG	32497	32455	28820	30559	37933	44267	44458	49279	49925	50200	..
+Early-demographic dividend	EAR	Refugee population by country or territory of asylum	SM.POP.REFG	10301334	9932365	9914450	10557677	11936839	13024365	13307587	14770213	15028285	14809945	..
+East Asia & Pacific	EAS	Refugee population by country or territory of asylum	SM.POP.REFG	519159	517011	521832	586976	585895	562051	582281	605967	631100	635753	..
+East Asia & Pacific (excluding high income)	EAP	Refugee population by country or territory of asylum	SM.POP.REFG	491982	488492	487095	547856	544711	519270	533777	550546	566746	550719	..
+East Asia & Pacific (IDA & IBRD countries)	TEA	Refugee population by country or territory of asylum	SM.POP.REFG	491982	488492	487095	547856	545097	519778	534285	551510	567710	551474	..
+Euro area	EMU	Refugee population by country or territory of asylum	SM.POP.REFG	1024695	1022488	1057919	694802	784306	972179	1464998	1845395	2032479	2254353	..
+Europe & Central Asia	ECS	Refugee population by country or territory of asylum	SM.POP.REFG	1610590	1560499	1796982	1775508	3109594	4382502	5195632	6109371	6469146	6565787	..
+Europe & Central Asia (excluding high income)	ECA	Refugee population by country or territory of asylum	SM.POP.REFG	138849	135060	374420	714265	1919736	2948282	3190036	3694762	3846329	3705616	..
+Europe & Central Asia (IDA & IBRD countries)	TEC	Refugee population by country or territory of asylum	SM.POP.REFG	156338	152715	392302	733119	1938361	2965438	3204954	3711406	3863745	3723050	..
+European Union	EUU	Refugee population by country or territory of asylum	SM.POP.REFG	1156054	1153317	1189554	850674	979904	1210729	1769745	2167138	2362839	2591349	..
+Fragile and conflict affected situations	FCS	Refugee population by country or territory of asylum	SM.POP.REFG	5272546	5300996	5319824	6062110	7055277	7210110	7278373	7886616	8134971	8157246	..
+Heavily indebted poor countries (HIPC)	HPC	Refugee population by country or territory of asylum	SM.POP.REFG	1693496	1932354	1982316	2153806	3106862	3762016	4417703	5544442	5582768	5566125	..
+High income	HIC	Refugee population by country or territory of asylum	SM.POP.REFG	1981086	1952862	1961517	1604430	1714805	1947843	2485136	2903005	3150377	3424205	..
+IBRD only	IBD	Refugee population by country or territory of asylum	SM.POP.REFG	5421281	5272028	5616823	7407846	9148658	10069989	10259524	10799882	10967068	10816543	..
+IDA & IBRD total	IBT	Refugee population by country or territory of asylum	SM.POP.REFG	11453035	11390141	11547689	13167429	15806228	17336613	17915908	20287891	20510776	20356739	..
+IDA blend	IDB	Refugee population by country or territory of asylum	SM.POP.REFG	2564062	2533738	2417841	2334813	2392782	2520932	2243857	2230439	2295626	2363258	..
+IDA only	IDX	Refugee population by country or territory of asylum	SM.POP.REFG	3467692	3584375	3513025	3424770	4264788	4745692	5412527	7257570	7248082	7176938	..
+IDA total	IDA	Refugee population by country or territory of asylum	SM.POP.REFG	6031754	6118113	5930866	5759583	6657570	7266624	7656384	9488009	9543708	9540196	..
+Late-demographic dividend	LTE	Refugee population by country or territory of asylum	SM.POP.REFG	1085946	1085789	1202529	1986998	2509965	2462161	2337688	2241074	2167644	2109831	..
+Latin America & Caribbean	LCN	Refugee population by country or territory of asylum	SM.POP.REFG	373655	377581	380522	381782	352424	337472	322179	252093	215691	257918	..
+Latin America & Caribbean (excluding high income)	LAC	Refugee population by country or territory of asylum	SM.POP.REFG	354741	358445	361179	362152	333013	317843	302619	247078	209839	250429	..
+Latin America & the Caribbean (IDA & IBRD countries)	TLA	Refugee population by country or territory of asylum	SM.POP.REFG	373215	377162	380102	381363	352087	337099	321777	251629	215247	257589	..
+Least developed countries: UN classification	LDC	Refugee population by country or territory of asylum	SM.POP.REFG	1954851	2310884	2533422	2757619	3579315	4183415	4848569	6710453	6691916	6605694	..
+Low & middle income	LMY	Refugee population by country or territory of asylum	SM.POP.REFG	13258841	13248812	13455428	15123857	17819239	19403694	20039598	22480510	22754719	22650443	..
+Low income	LIC	Refugee population by country or territory of asylum	SM.POP.REFG	2879167	2986362	2955394	2872010	3747667	4110917	4678963	5828887	5860968	5867788	..
+Lower middle income	LMC	Refugee population by country or territory of asylum	SM.POP.REFG	5391400	5428242	5339765	5425407	5514233	5794084	5668466	6451062	6540447	6583870	..
+Middle East & North Africa	MEA	Refugee population by country or territory of asylum	SM.POP.REFG	7699902	7424175	7328818	8455110	9046603	8903648	8950801	9075560	9161280	9195527	..
+Middle East & North Africa (excluding high income)	MNA	Refugee population by country or territory of asylum	SM.POP.REFG	7666702	7374038	7269700	8394673	8998629	8861523	8909610	9039508	9131285	9167508	..
+Middle East & North Africa (IDA & IBRD countries)	TMN	Refugee population by country or territory of asylum	SM.POP.REFG	5824933	5478995	5325156	6400180	6947533	6757522	6751336	6824725	6863538	6848435	..
+Middle income	MIC	Refugee population by country or territory of asylum	SM.POP.REFG	10379674	10262450	10500034	12251847	14071572	15292777	15360635	16651623	16893751	16782655	..
+North America	NAC	Refugee population by country or territory of asylum	SM.POP.REFG	430054	429631	425757	424000	416378	409088	370285	391903	427343	443472	..
+Not classified	INX	Refugee population by country or territory of asylum	SM.POP.REFG	..	..	..	..	..	..	..	..	..	..	..
+OECD members	OED	Refugee population by country or territory of asylum	SM.POP.REFG	1962045	1937201	2196149	2179688	3269564	4454366	5320037	6363607	6816400	6997395	..
+Other small states	OSS	Refugee population by country or territory of asylum	SM.POP.REFG	77375	73266	67081	68123	65071	58004	58809	62579	54870	55189	..
+Pacific island small states	PSS	Refugee population by country or territory of asylum	SM.POP.REFG	5	5	..	..	398	525	525	976	969	767	..
+Post-demographic dividend	PST	Refugee population by country or territory of asylum	SM.POP.REFG	1921905	1877882	1876101	1520285	1645317	1890039	2429253	2864252	3116076	3388007	..
+Pre-demographic dividend	PRE	Refugee population by country or territory of asylum	SM.POP.REFG	1930649	2305502	2423707	2663169	3441353	3974220	4449429	5506710	5591788	5765872	..
+Small states	SST	Refugee population by country or territory of asylum	SM.POP.REFG	77587	73422	67183	68203	65602	58715	59477	63909	56750	58366	..
+South Asia	SAS	Refugee population by country or territory of asylum	SM.POP.REFG	2411151	2193334	2127348	2099345	2277339	2285493	1912223	2620697	2600363	2562316	..
+South Asia (IDA & IBRD)	TSA	Refugee population by country or territory of asylum	SM.POP.REFG	2411151	2193334	2127348	2099345	2277339	2285493	1912223	2620697	2600363	2562316	..
+Sub-Saharan Africa	SSF	Refugee population by country or territory of asylum	SM.POP.REFG	2195416	2699443	2835686	3005566	3745811	4471283	5191333	6327924	6400173	6413875	..
+Sub-Saharan Africa (excluding high income)	SSA	Refugee population by country or territory of asylum	SM.POP.REFG	2195416	2699443	2835686	3005566	3745811	4471283	5191333	6327919	6400157	6413855	..
+Sub-Saharan Africa (IDA & IBRD countries)	TSS	Refugee population by country or territory of asylum	SM.POP.REFG	2195416	2699443	2835686	3005566	3745811	4471283	5191333	6327924	6400173	6413875	..
+Upper middle income	UMC	Refugee population by country or territory of asylum	SM.POP.REFG	4988274	4834208	5160269	6826440	8557339	9498693	9692169	10200561	10353304	10198785	..
+World	WLD	Refugee population by country or territory of asylum	SM.POP.REFG	15239927	15201674	15416945	16728287	19534044	21351537	22524734	25383515	25905096	26074648	..
+														
+														
+														
+Data from database: World Development Indicators														
+Last Updated: 03/19/2021														

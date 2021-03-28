@@ -1,0 +1,270 @@
+﻿Series Name	Series Code	Country Name	Country Code	2010 [YR2010]	2011 [YR2011]	2012 [YR2012]	2013 [YR2013]	2014 [YR2014]	2015 [YR2015]	2016 [YR2016]	2017 [YR2017]	2018 [YR2018]	2019 [YR2019]
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Afghanistan	AFG	3054699	2664423	2586132	2556483	2596259	2666294	2501447	2624265	2681267	2728853
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Albania	ALB	14771	13552	12569	10104	10156	10404	11060	12168	13512	15027
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Algeria	DZA	6665	6098	5657	3643	3509	3470	3705	4021	4186	4514
+Refugee population by country or territory of origin	SM.POP.REFG.OR	American Samoa	ASM	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Andorra	AND	5	5	6	5	5	5	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Angola	AGO	134851	128657	19253	10274	9468	11855	8388	8292	8243	8178
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Antigua and Barbuda	ATG	28	32	45	50	53	56	82	99	107	117
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Argentina	ARG	553	506	435	381	311	186	120	121	112	99
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Armenia	ARM	17553	16491	15937	11995	11839	11211	10707	10786	11040	10962
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Aruba	ABW	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Australia	AUS	38	38	47	27	27	21	15	10	10	20
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Austria	AUT	10	10	15	5	5	..	..	10	24	18
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Azerbaijan	AZE	16756	16168	15541	10808	10508	9707	10118	10893	11246	11626
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Bahamas, The	BHS	17	184	195	208	216	216	298	378	421	501
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Bahrain	BHR	81	213	294	274	344	422	461	497	540	557
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Bangladesh	BGD	10044	10045	10157	9718	10870	12155	13840	16780	21023	22880
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Barbados	BRB	29	42	50	63	82	95	144	172	211	243
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Belarus	BLR	5735	5916	6181	4387	4296	4117	3831	3650	3526	3425
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Belgium	BEL	80	88	91	76	76	66	44	52	50	34
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Belize	BLZ	21	29	35	37	42	48	58	64	68	73
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Benin	BEN	438	460	451	294	330	400	479	572	659	716
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Bermuda	BMU	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Bhutan	BTN	75062	57980	41582	31556	23633	17709	11757	7954	7100	6980
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Bolivia	BOL	589	615	616	594	594	566	530	520	502	514
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Bosnia and Herzegovina	BIH	62996	58572	51815	26787	21883	18763	18194	17690	16956	16556
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Botswana	BWA	56	88	125	165	234	306	265	279	289	228
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Brazil	BRA	991	1040	1073	982	977	893	803	851	1038	1399
+Refugee population by country or territory of origin	SM.POP.REFG.OR	British Virgin Islands	VGB	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Brunei Darussalam	BRN	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Bulgaria	BGR	2558	2322	2143	1875	1644	1264	799	716	620	561
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Burkina Faso	BFA	1141	1262	1458	1578	1853	2147	2352	2694	11447	11733
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Burundi	BDI	84053	101282	73354	72636	72477	292750	408066	439320	387850	381508
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Cabo Verde	CPV	22	22	22	22	27	27	10	5	10	10
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Cambodia	KHM	16308	15201	14016	13738	13066	12801	12428	12238	12139	11986
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Cameroon	CMR	14952	15149	13360	11410	10739	10565	10344	11032	45118	66305
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Canada	CAN	86	108	121	94	89	73	76	75	81	71
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Cayman Islands	CYM	..	..	..	6	6	6	6	6	6	6
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Central African Republic	CAF	164902	162861	164567	252854	412028	471093	490879	545513	590858	610203
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Chad	TCD	53713	42619	39674	48618	48236	14921	14176	16325	10895	11192
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Channel Islands	CHI	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Chile	CHL	1163	1182	1145	588	571	554	495	493	479	486
+Refugee population by country or territory of origin	SM.POP.REFG.OR	China	CHN	184601	190369	193449	195121	210793	212911	207768	207716	212039	212863
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Colombia	COL	395579	395950	394112	396711	360291	340116	311059	191635	138583	189448
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Comoros	COM	365	420	449	509	580	550	572	600	624	658
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Congo, Dem. Rep.	COD	476691	491470	509275	499551	516765	541487	537474	620805	720302	807374
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Congo, Rep.	COG	20682	12836	12113	11744	14498	14772	13291	13295	13354	13481
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Costa Rica	CRI	352	332	325	463	414	374	202	195	207	206
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Cote d'Ivoire	CIV	41747	154818	100709	85650	71956	71107	46811	40009	38316	39364
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Croatia	HRV	65863	62653	62606	49755	40121	33452	26231	24869	24105	23793
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Cuba	CUB	7460	7845	7722	7453	7497	6827	5940	5331	5488	6631
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Curacao	CUW	..	..	..	35	35	35	35	35	35	35
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Cyprus	CYP	15	10	10	10	10	..	..	..	7	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Czech Republic	CZE	811	758	620	984	1321	1280	1266	1272	1236	1166
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Denmark	DNK	6	6	6	6	11	11	..	..	..	5
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Djibouti	DJI	556	595	626	747	870	1059	1437	1761	2124	2351
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Dominica	DMA	51	49	52	41	35	35	20	26	36	50
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Dominican Republic	DOM	238	239	280	298	348	382	359	427	472	546
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Ecuador	ECU	859	912	848	711	807	1006	1041	1251	1424	1652
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Egypt, Arab Rep.	EGY	6905	7924	10013	12804	15899	17929	19792	22106	24850	27506
+Refugee population by country or territory of origin	SM.POP.REFG.OR	El Salvador	SLV	4978	6725	8173	9634	10968	14778	19617	25876	32562	41850
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Equatorial Guinea	GNQ	306	261	230	196	168	142	131	127	140	156
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Eritrea	ERI	222454	251941	285356	308210	363081	407428	457247	486209	507260	505118
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Estonia	EST	242	225	455	349	340	315	303	288	281	269
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Eswatini	SWZ	32	39	59	103	151	213	224	231	237	217
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Ethiopia	ETH	68838	70601	74965	77109	86857	85839	83958	87448	92232	95685
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Faroe Islands	FRO	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Fiji	FJI	1849	1576	1314	1109	927	887	791	734	675	591
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Finland	FIN	6	6	5	5	5	10	5	5	5	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	France	FRA	90	92	94	92	84	90	50	54	59	50
+Refugee population by country or territory of origin	SM.POP.REFG.OR	French Polynesia	PYF	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Gabon	GAB	167	180	189	180	179	174	167	216	342	440
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Gambia, The	GMB	2233	2572	3063	3382	5122	8473	11589	14564	17237	17813
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Georgia	GEO	10636	10115	9266	6787	6687	6505	6405	6535	6983	7519
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Germany	DEU	159	169	174	164	170	153	67	66	61	69
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Ghana	GHA	20175	20333	24269	21048	22116	22962	15527	16959	18071	18425
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Gibraltar	GIB	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Greece	GRC	52	54	48	88	108	111	101	106	107	95
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Greenland	GRL	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Grenada	GRD	344	325	316	330	324	270	100	103	96	80
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Guam	GUM	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Guatemala	GTM	5675	6087	6389	6620	7487	10284	12549	16284	19128	22770
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Guinea	GIN	11978	13164	14062	14559	15247	16995	17536	20333	23493	26857
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Guinea-Bissau	GNB	1117	1118	1173	1222	1306	1472	1650	1870	2043	2093
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Guyana	GUY	746	768	800	800	700	508	269	260	283	284
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Haiti	HTI	25886	33652	38559	38644	37147	34762	29671	28424	27517	26734
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Honduras	HND	1300	1967	2612	3299	4157	6847	10509	14424	18857	26370
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Hong Kong SAR, China	HKG	16	14	18	24	25	33	15	11	11	5
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Hungary	HUN	1435	1234	1085	1218	1264	1447	2909	3336	3927	4007
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Iceland	ISL	5	..	..	..	..	..	..	5	5	5
+Refugee population by country or territory of origin	SM.POP.REFG.OR	India	IND	17766	16226	14245	11032	10431	9882	7288	7926	9586	11979
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Indonesia	IDN	16882	16069	15514	14775	14393	13947	13056	12485	12148	12051
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Iran, Islamic Rep.	IRN	68786	72366	75934	75061	82202	84950	94103	118640	129941	129676
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Iraq	IRQ	1683576	1428306	746204	401461	369960	264086	316056	362536	372332	344460
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Ireland	IRL	7	7	7	7	7	5	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Isle of Man	IMN	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Israel	ISR	1290	1323	1326	1026	967	787	487	469	492	452
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Italy	ITA	45	57	65	64	63	69	49	52	69	76
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Jamaica	JAM	1055	1248	1404	1501	1682	1857	1998	2224	2448	2529
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Japan	JPN	149	176	173	154	257	140	53	44	42	39
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Jordan	JOR	2250	2244	2363	1622	1711	1836	1919	2119	2426	2384
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Kazakhstan	KAZ	3631	3497	3567	2114	2219	2263	2366	2406	2520	2757
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Kenya	KEN	8585	8731	8946	8580	8546	7902	7526	7567	7480	8018
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Kiribati	KIR	31	31	34	21	5	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Korea, Dem. People’s Rep.	PRK	915	1046	1126	1163	1275	1094	1419	1176	797	758
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Korea, Rep.	KOR	578	508	555	495	478	346	243	239	274	180
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Kosovo	XKX	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Kuwait	KWT	986	1112	1189	971	974	1076	1013	1097	1251	1300
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Kyrgyz Republic	KGZ	2748	3163	3490	2299	2449	2498	2571	2771	2934	2963
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Lao PDR	LAO	8412	8086	7981	7736	7476	7359	7229	7056	6943	6757
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Latvia	LVA	712	706	662	228	206	187	165	162	152	144
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Lebanon	LBN	15864	15004	15100	3809	4262	4353	4719	5302	5621	5801
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Lesotho	LSO	5	5	5	10	16	16	5	6	6	6
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Liberia	LBR	70134	66780	23428	17548	13561	9972	6558	6039	5508	5375
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Libya	LBY	2297	4372	5234	3298	4187	6077	8831	11205	13868	16033
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Liechtenstein	LIE	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Lithuania	LTU	508	523	487	217	182	143	74	73	66	61
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Luxembourg	LUX	..	..	..	..	..	..	..	..	..	5
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Macao SAR, China	MAC	8	8	..	..	5	5	5	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Madagascar	MDG	266	287	299	298	279	285	292	292	298	298
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Malawi	MWI	168	216	273	323	356	429	427	434	472	606
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Malaysia	MYS	550	531	523	478	458	435	453	540	817	1154
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Maldives	MDV	16	21	22	30	32	39	58	64	74	75
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Mali	MLI	3659	4289	149930	152812	139249	154202	156415	150305	158267	164461
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Malta	MLT	5	5	5	5	..	..	..	..	5	5
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Marshall Islands	MHL	..	..	..	5	5	5	5	7	7	7
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Mauritania	MRT	37721	39919	33747	34239	34103	34656	36263	36525	37050	37423
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Mauritius	MUS	25	36	57	72	91	101	106	130	156	178
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Mexico	MEX	6809	7471	8438	9396	10672	11340	10387	11679	12870	14621
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Micronesia, Fed. Sts.	FSM	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Moldova	MDA	6204	6261	6148	2210	2230	2289	2316	2339	2397	2427
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Monaco	MCO	..	5	5	5	5	5	5	5	5	5
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Mongolia	MNG	1720	1982	2111	2054	2162	2198	2282	2227	2249	2364
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Montenegro	MNE	3243	3699	4052	542	601	646	713	704	715	659
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Morocco	MAR	2276	2305	2394	1290	1523	1760	2240	3089	3873	4637
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Mozambique	MOZ	120	147	155	51	55	55	48	48	57	77
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Myanmar	MMR	415662	414615	415363	479594	479006	451804	490285	1156742	1145149	1078268
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Namibia	NAM	1013	1067	1097	1138	1250	1272	1363	1368	1331	459
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Nauru	NRU	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Nepal	NPL	5883	6847	7603	8100	8547	9052	8365	8414	8589	8192
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Netherlands	NLD	52	61	69	59	63	64	32	39	41	55
+Refugee population by country or territory of origin	SM.POP.REFG.OR	New Caledonia	NCL	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	New Zealand	NZL	11	13	19	15	14	16	25	34	34	34
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Nicaragua	NIC	1426	1464	1526	1530	1580	1469	1409	1467	1671	4376
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Niger	NER	794	805	824	674	728	1383	1230	1363	2715	3063
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Nigeria	NGA	15645	17141	18017	31173	90936	167973	229291	238977	276834	295569
+Refugee population by country or territory of origin	SM.POP.REFG.OR	North Macedonia	MKD	7880	7677	7582	1622	1752	1769	1730	1653	1721	1784
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Northern Mariana Islands	MNP	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Norway	NOR	..	5	5	15	15	10	10	15	5	5
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Oman	OMN	62	58	62	20	25	36	35	39	42	42
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Pakistan	PAK	39979	35948	49778	48678	335947	297886	105421	128916	132249	137190
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Palau	PLW	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Panama	PAN	94	98	107	99	83	62	33	36	44	45
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Papua New Guinea	PNG	87	126	172	219	285	335	401	406	424	475
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Paraguay	PRY	86	91	101	91	87	88	68	77	73	84
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Peru	PER	5834	5488	5207	4762	4333	3591	2599	2588	2579	2765
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Philippines	PHL	964	945	979	718	661	583	426	443	520	552
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Poland	POL	1758	1811	1638	1428	1306	1298	1159	1123	1085	961
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Portugal	PRT	29	29	32	27	30	28	20	16	20	25
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Puerto Rico	PRI	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Qatar	QAT	109	93	123	15	23	21	25	31	30	36
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Romania	ROU	3926	3422	2802	2331	1917	1731	1195	1210	1155	1352
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Russian Federation	RUS	111944	109783	110587	74310	70552	67008	62759	61584	61457	62343
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Rwanda	RWA	115519	106832	97357	83943	79396	286357	286063	258986	247469	246698
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Samoa	WSM	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	San Marino	SMR	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Sao Tome and Principe	STP	32	32	31	31	24	24	31	31	31	28
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Saudi Arabia	SAU	659	733	811	575	616	686	937	1219	1492	1762
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Senegal	SEN	16255	17710	18717	19815	23110	21267	23054	26584	18208	17203
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Serbia	SRB	183284	161664	158903	48725	45730	38621	36928	33246	32368	31251
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Seychelles	SYC	47	39	30	24	23	19	10	10	15	15
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Sierra Leone	SLE	11261	7985	6191	5305	4988	4900	4678	4496	4846	5268
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Singapore	SGP	74	65	64	61	55	50	38	48	46	39
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Sint Maarten (Dutch part)	SXM	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Slovak Republic	SVK	157	271	231	321	316	325	792	913	1218	1343
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Slovenia	SVN	35	30	32	27	25	21	20	17	19	19
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Solomon Islands	SLB	75	72	60	60	70	71	71	57	33	27
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Somalia	SOM	770143	1077038	1136710	1121760	1106430	1123144	1012320	986386	949637	905109
+Refugee population by country or territory of origin	SM.POP.REFG.OR	South Africa	ZAF	374	422	413	424	422	447	452	461	482	441
+Refugee population by country or territory of origin	SM.POP.REFG.OR	South Sudan	SSD	..	..	87007	114469	616206	778722	1436707	2439888	2285301	2234814
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Spain	ESP	41	42	55	56	60	60	34	39	46	51
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Sri Lanka	LKA	141065	136600	132718	123075	121991	121427	117472	115632	113955	110348
+Refugee population by country or territory of origin	SM.POP.REFG.OR	St. Kitts and Nevis	KNA	10	7	10	12	20	25	49	51	58	57
+Refugee population by country or territory of origin	SM.POP.REFG.OR	St. Lucia	LCA	334	432	567	711	921	1011	993	995	1025	843
+Refugee population by country or territory of origin	SM.POP.REFG.OR	St. Martin (French part)	MAF	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	St. Vincent and the Grenadines	VCT	946	1126	1315	1535	1736	1823	1335	1311	1258	979
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Sudan	SDN	387265	500005	568935	648936	665956	627080	650391	694556	724787	734947
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Suriname	SUR	24	22	14	17	17	19	16	17	22	17
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Sweden	SWE	23	23	21	18	18	18	13	14	16	13
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Switzerland	CHE	20	20	16	11	16	16	5	5	5	5
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Syrian Arab Republic	SYR	18451	19931	729012	2468323	3887490	4873236	5524511	6310498	6654374	6616983
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Tajikistan	TJK	573	604	669	657	722	790	932	1369	1695	1987
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Tanzania	TZA	1135	1154	1109	1033	843	810	579	655	723	849
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Thailand	THA	351	365	380	218	225	210	148	164	183	482
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Timor-Leste	TLS	8	8	8	8	13	19	19	13	12	17
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Togo	TGO	18308	17853	15683	10302	9272	8774	8296	8115	8029	8022
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Tonga	TON	5	7	11	16	19	22	25	34	32	32
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Trinidad and Tobago	TTO	252	296	335	336	371	369	295	310	323	307
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Tunisia	TUN	2160	1931	1919	1359	1476	1554	1687	1826	1985	2068
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Turkey	TUR	146786	139764	135355	66558	63882	59545	57915	61383	68900	83271
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Turkmenistan	TKM	723	711	708	502	470	446	371	365	457	478
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Turks and Caicos Islands	TCA	..	14	14	15	15	14	14	14	14	14
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Tuvalu	TUV	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Uganda	UGA	6421	5658	5588	8166	7177	6311	6229	6409	7034	7479
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Ukraine	UKR	25102	25372	25248	5154	237617	321399	239062	139581	93248	59839
+Refugee population by country or territory of origin	SM.POP.REFG.OR	United Arab Emirates	ARE	418	484	580	84	84	91	103	137	169	155
+Refugee population by country or territory of origin	SM.POP.REFG.OR	United Kingdom	GBR	152	150	150	140	137	128	78	85	84	69
+Refugee population by country or territory of origin	SM.POP.REFG.OR	United States	USA	3019	3775	4454	4755	4980	4824	302	310	333	298
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Uruguay	URY	185	183	168	144	119	84	23	12	7	15
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Uzbekistan	UZB	8841	12667	11593	4953	4790	4197	3824	3405	3276	3217
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Vanuatu	VUT	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Venezuela, RB	VEN	6697	7575	8204	8396	8009	7455	7543	9272	21047	93280
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Vietnam	VNM	338707	337828	336936	314110	313421	313152	329341	334064	334464	316441
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Virgin Islands (U.S.)	VIR	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	West Bank and Gaza	PSE	93312	94142	94917	96035	97207	98013	97794	99630	100728	96318
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Yemen, Rep.	YEM	2070	2321	2582	2413	2623	15901	18427	23555	31145	36518
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Zambia	ZMB	221	234	240	230	309	334	256	260	266	261
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Zimbabwe	ZWE	24080	25033	22082	19719	22478	21332	18141	17420	15618	10603
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Arab World	ARB	3034191	3205248	3358921	4804187	6199852	7077036	7703238	8568735	8933134	8841562
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Caribbean small states	CSS	3857	4560	5138	5641	6199	6332	5657	6010	6356	6080
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Central Europe and the Baltics	CEB	78005	73955	72761	58733	48642	41463	34913	33979	33864	33676
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Early-demographic dividend	EAR	1259115	1246115	1957054	3653182	5372022	6515087	7008880	8517766	8911634	8930539
+Refugee population by country or territory of origin	SM.POP.REFG.OR	East Asia & Pacific	EAS	988001	989679	990853	1031919	1045121	1018444	1066541	1736488	1729048	1645142
+Refugee population by country or territory of origin	SM.POP.REFG.OR	East Asia & Pacific (excluding high income)	EAP	987127	988857	989977	1031143	1044260	1017833	1066147	1736102	1728631	1644825
+Refugee population by country or territory of origin	SM.POP.REFG.OR	East Asia & Pacific (IDA & IBRD countries)	TEA	986212	987811	988851	1029980	1042985	1016739	1064728	1734926	1727834	1644067
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Euro area	EMU	2245	2385	2537	1800	1750	1647	1756	1892	2230	2319
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Europe & Central Asia	ECS	708208	670470	652846	340100	547913	604490	507228	407075	369424	352352
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Europe & Central Asia (excluding high income)	ECA	631964	597998	581354	282389	500027	563442	472601	373244	335571	318652
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Europe & Central Asia (IDA & IBRD countries)	TEC	703511	665884	648400	335903	543371	599923	501186	400446	361916	344758
+Refugee population by country or territory of origin	SM.POP.REFG.OR	European Union	EUU	78625	74614	73458	59415	49352	42148	35328	34432	34374	34177
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Fragile and conflict affected situations	FCS	7641270	7467432	7760492	9385361	11596288	13079291	14465750	17326177	17786179	17832027
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Heavily indebted poor countries (HIPC)	HPC	5709547	5892739	6007760	6117190	6369464	6953390	6848916	7168392	7375253	7532823
+Refugee population by country or territory of origin	SM.POP.REFG.OR	High income	HIC	85683	83311	83489	67958	58534	51311	40050	39837	40581	40714
+Refugee population by country or territory of origin	SM.POP.REFG.OR	IBRD only	IBD	3753677	3457832	2653238	1948321	2114916	2061860	2006177	1880138	1844442	1925096
+Refugee population by country or territory of origin	SM.POP.REFG.OR	IDA & IBRD total	IBT	10119307	9992664	10094784	11321487	14003856	15701620	16751088	19437082	19836854	19945873
+Refugee population by country or territory of origin	SM.POP.REFG.OR	IDA blend	IDB	136405	131169	139655	140232	492202	529034	391507	424205	497465	537428
+Refugee population by country or territory of origin	SM.POP.REFG.OR	IDA only	IDX	6229225	6403663	7301891	9232934	11396738	13110726	14353404	17132739	17494947	17483349
+Refugee population by country or territory of origin	SM.POP.REFG.OR	IDA total	IDA	6365630	6534832	7441546	9373166	11888940	13639760	14744911	17556944	17992412	18020777
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Late-demographic dividend	LTE	1478797	1452622	1444897	1225141	1196556	1165912	1138669	1021364	975189	1009622
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Latin America & Caribbean	LCN	470611	483996	491192	496493	462707	448051	420669	317028	291071	440026
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Latin America & Caribbean (excluding high income)	LAC	468833	481958	489123	494937	461136	446535	419195	315422	289366	438200
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Latin America & the Caribbean (IDA & IBRD countries)	TLA	463105	475911	483211	488713	454856	440858	414232	311092	284896	432596
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Least developed countries: UN classification	LDC	6276897	6329252	6458032	6659559	7414993	8143117	8759184	10753182	10766888	10780678
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Low & middle income	LMY	10147643	10025938	10129606	11371299	14065160	15769803	16826563	19514876	19916333	20022254
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Low income	LIC	5573772	5648762	6617407	8511989	10692141	12436296	13670988	15781685	16154832	16197626
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Lower middle income	LMC	1571778	1656462	1482254	1451852	2022683	2121026	1923910	2540704	2568476	2510720
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Middle East & North Africa	MEA	1908778	1661560	1696345	3074835	4475952	5377343	6098282	6969777	7351474	7293558
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Middle East & North Africa (excluding high income)	MNA	1905168	1657539	1691955	3071865	4472919	5374224	6095221	6966288	7347453	7289249
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Middle East & North Africa (IDA & IBRD countries)	TMN	1811856	1563397	1597038	2975830	4375712	5276211	5997427	6866658	7246725	7192931
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Middle income	MIC	4573871	4377176	3512199	2859310	3373019	3333507	3155575	3733191	3761501	3824628
+Refugee population by country or territory of origin	SM.POP.REFG.OR	North America	NAC	3105	3883	4575	4849	5069	4897	378	385	414	369
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Not classified	INX	..	..	..	..	..	..	..	..	..	..
+Refugee population by country or territory of origin	SM.POP.REFG.OR	OECD members	OED	561943	556685	551808	485424	448056	423617	388253	274118	230679	297470
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Other small states	OSS	84762	68728	53707	40590	35037	33019	30896	30754	33354	33255
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Pacific island small states	PSS	1960	1686	1419	1211	1026	985	892	832	747	657
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Post-demographic dividend	PST	177309	170821	164336	104426	322776	395206	299832	198135	150937	117684
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Pre-demographic dividend	PRE	7318007	7239579	6646690	6456353	7232190	7744755	8419067	9817273	9918962	10004921
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Small states	SST	90579	74974	60264	47442	42262	40336	37445	37596	40457	39992
+Refugee population by country or territory of origin	SM.POP.REFG.OR	South Asia	SAS	3344514	2928090	2842237	2788672	3107710	3134444	2765648	2909951	2973843	3026497
+Refugee population by country or territory of origin	SM.POP.REFG.OR	South Asia (IDA & IBRD)	TSA	3344514	2928090	2842237	2788672	3107710	3134444	2765648	2909951	2973843	3026497
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Sub-Saharan Africa	SSF	2810109	3371571	3535047	3702389	4479222	5233445	6007867	7214009	7241640	7305024
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Sub-Saharan Africa (excluding high income)	SSA	2810037	3371496	3534960	3702293	4479108	5233325	6007751	7213869	7241469	7304831
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Sub-Saharan Africa (IDA & IBRD countries)	TSS	2810109	3371571	3535047	3702389	4479222	5233445	6007867	7214009	7241640	7305024
+Refugee population by country or territory of origin	SM.POP.REFG.OR	Upper middle income	UMC	3002093	2720714	2029945	1407458	1350336	1212481	1231665	1192487	1193025	1313908
+Refugee population by country or territory of origin	SM.POP.REFG.OR	World	WLD	15239927	15201674	15416945	16728287	19534044	21351537	22524734	25383515	25905096	26074648
+													
+													
+													
+Data from database: World Development Indicators													
+Last Updated: 03/19/2021													
